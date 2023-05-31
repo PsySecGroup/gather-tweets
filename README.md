@@ -17,7 +17,7 @@ pip3 uninstall -y -r <(pip3 show --files twint | grep -oP '(?<=^Location: ).*')/
 Then, simply download the script with either:
 
 ```bash
-curl https://raw.githubusercontent.com/PsySecGroup/gather-tweets/main/gather-tweets
+curl -O https://raw.githubusercontent.com/PsySecGroup/gather-tweets/main/gather-tweets
 ```
 
 or
