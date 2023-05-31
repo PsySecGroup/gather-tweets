@@ -14,14 +14,16 @@ If you already have a version of Twint, please uninstall it with the following c
 pip3 uninstall -y -r <(pip3 show --files twint | grep -oP '(?<=^Location: ).*')/requires.txt
 ```
 
-Then, simply download the script with:
+Then, simply download the script with either:
 
 ```bash
-curl https://raw.githubusercontent.com/PsySecGroup/gather-tweets/gather-tweets
+curl https://raw.githubusercontent.com/PsySecGroup/gather-tweets/main/gather-tweets
 ```
 
+or
+
 ```bash
-wget https://raw.githubusercontent.com/PsySecGroup/gather-tweets/gather-tweets
+wget https://raw.githubusercontent.com/PsySecGroup/gather-tweets/main/gather-tweets
 ```
 
 # Usage
