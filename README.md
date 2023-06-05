@@ -6,7 +6,7 @@ Captures the last 3,200 tweets.  (We're working on expanding that)
 
 # Install
 
-We will automatically install a working version of [Twint](https://github.com/greyhao/twint.git](https://github.com/twintproject/twint/forks?include=active&page=1&period=1y&sort_by=last_updated) if you don't already have it.
+We will automatically install a working version of [Twint](https://github.com/twintproject/twint/forks?include=active&page=1&period=1y&sort_by=last_updated) if you don't already have it.
 
 If you already have a version of Twint, please uninstall it with the following command:
 
