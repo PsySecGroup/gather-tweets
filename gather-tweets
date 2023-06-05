@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if ! command -v pip3 &> /dev/null; then
+    sudo apt update
+    sudo apt install python3-pip
+fi
+
 if ! command -v twint &> /dev/null; then
     echo "twint is not installed. Installing..."
     pip3 install --user --upgrade git+https://github.com/Agencia-Scrum/twint.git
