@@ -4,6 +4,10 @@ Gathers all tweets and replies (but not retweets) a user had made and saves it t
 
 Captures the last 3,200 tweets.  (We're working on expanding that)
 
+# Requirements
+
+* Ubuntu
+
 # Install
 
 We will automatically install a working version of [Twint](https://github.com/twintproject/twint/forks?include=active&page=1&period=1y&sort_by=last_updated) if you don't already have it.
