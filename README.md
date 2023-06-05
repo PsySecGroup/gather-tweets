@@ -7,6 +7,13 @@ Captures the last 3,200 tweets.  (We're working on expanding that)
 # Requirements
 
 * Ubuntu
+* Python3
+  * [Windows](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/#windows)
+  * [Linux](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/#linux)
+  * [mac OS / Mac OS X](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/#macos)
+  * [Android](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/#android)
+  * [iOS (iPhone / iPad)](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/#ios-iphone-ipad)
+  * [Online Interpreters of Python](https://www.geeksforgeeks.org/download-and-install-python-3-latest-version/#online-ide)
 
 # Install
 
